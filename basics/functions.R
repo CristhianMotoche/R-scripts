@@ -24,3 +24,15 @@ getMany = function(...) {
 getMany(1,2,3,4,4:10)
 
 (function (x) x * 2)(10)
+
+# Closured
+
+pow = function(exp) {
+  function(x) {
+    x ^ exp
+  }
+}
+
+cubed = pow(3)
+cubed(2)
+cubed(1:10)

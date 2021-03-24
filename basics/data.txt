@@ -1,0 +1,6 @@
+Name Atk Def
+Gormick 350 700
+SuperRRR 3050 1700
+Darla 1350 250
+TimerX 150 0
+LoL 750 200
